@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+com:
+  kb:
+    jwt:
+      aws:
+        userPoolId: "*"
+        region: "us-east-1"
